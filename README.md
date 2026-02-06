@@ -1,6 +1,6 @@
 ## 🎮 Rock Paper Scissors Game
 
-A simple and interactive **Rock Paper Scissors** web game built using **HTML, CSS, and JavaScript**. The game allows users to play against the computer with real-time score updates and instant result feedba
+A simple and interactive **Rock Paper Scissors** web game built using **HTML, CSS, and JavaScript**. The game allows users to play against the computer with real-time score updates and instant result feedback.
 
 ## 🚀 Features
 
